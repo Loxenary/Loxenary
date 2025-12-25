@@ -44,14 +44,15 @@ Over time, I realized that strong engineering alone is insufficient. Code that d
 
 ## 🛠️ Technical Skills
 
-### Core Expertise
-- **Game Development:** Unity (C#), Game Design, VR/XR Development, Roguelike Systems
-- **Programming:** C#, C++, TypeScript, Python, Java
-- **Web Development:** React, Node.js, Three.js, Full-stack development
-- **AI/ML:** PyTorch, TensorFlow, Keras, scikit-learn
-- **Tools & Design:** Blender, Figma, Aseprite, Adobe Suite
-- **Databases:** MySQL, SQLite, Prisma
-- **DevOps:** Git, CI/CD, Vercel
+  ### Core Expertise
+  - **Game Development:** Unity (C#), Game Design, VR/XR Development, Systems
+  - **Programming:** C#, C++, TypeScript, Python, Java
+  - **Web Development:** React, Node.js, Three.js, Full-stack development
+  - **AI/ML:** PyTorch, TensorFlow, Keras, scikit-learn
+  - **Tools & Design:** Blender, Figma, Aseprite, Adobe Suite
+  - **Databases:** MySQL, SQLite, Prisma, Cloudinary
+  - **DevOps:** Git, Vercel, VPS
+
 
 <details>
 <summary><b>View Full Tech Stack Badges</b></summary>
@@ -84,41 +85,20 @@ Over time, I realized that strong engineering alone is insufficient. Code that d
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-### Databases & DevOps
+### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### DevOps & Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-0078D4?style=for-the-badge&logo=linux&logoColor=white)
 
 </details>
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/loxenary">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loxenary&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxenary&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=loxenary&theme=gotham&hide_border=false)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=loxenary&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 <div align="center">
 
